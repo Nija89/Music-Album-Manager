@@ -1,10 +1,6 @@
 public class Song {
     private String title;
     private double duration;
-    public Song(){
-        this.title = "Title";
-        this.duration = 00.00;
-    }
 
     public Song(String title, double duration){
         this.title = title;
